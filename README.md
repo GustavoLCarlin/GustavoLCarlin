@@ -1,5 +1,4 @@
 ###  Aqui é o Gustavo 👋
-<p>•💼Hoje estou a procura de emprego</p>
 <p>•📋Tenho conhecimento a nível técnico de: HTML/CSS/JavaScript/Bootstrap/SQL</p>
 <p>•📋Tenho conhecimento intermediário em: Git Hub e Chat-bot (Watson Assistant)</p>
 <p>•🌱Estou aprendendo: Python/Java/React JS/node-red/Kotlin</p>
